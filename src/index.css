@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  background-color: #fff !important;
+}
+.active_menu{
+  font-weight: bold;
+  border-bottom:1px solid blueviolet;
+}
+.brand-name{
+  color: blueviolet;
+}
+#header .animated{
+  animation: up-down 1s ease-in-out infinite alternate-reverse both;
+}
+
