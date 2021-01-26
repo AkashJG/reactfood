@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactfood/static/css/main.0ceb012c.chunk.css",
+    "main.js": "/reactfood/static/js/main.f7c0ffd4.chunk.js",
+    "main.js.map": "/reactfood/static/js/main.f7c0ffd4.chunk.js.map",
+    "runtime-main.js": "/reactfood/static/js/runtime-main.4bd4e54d.js",
+    "runtime-main.js.map": "/reactfood/static/js/runtime-main.4bd4e54d.js.map",
+    "static/css/2.20e3fd4d.chunk.css": "/reactfood/static/css/2.20e3fd4d.chunk.css",
+    "static/js/2.bb426e0e.chunk.js": "/reactfood/static/js/2.bb426e0e.chunk.js",
+    "static/js/2.bb426e0e.chunk.js.map": "/reactfood/static/js/2.bb426e0e.chunk.js.map",
+    "index.html": "/reactfood/index.html",
+    "static/css/2.20e3fd4d.chunk.css.map": "/reactfood/static/css/2.20e3fd4d.chunk.css.map",
+    "static/css/main.0ceb012c.chunk.css.map": "/reactfood/static/css/main.0ceb012c.chunk.css.map",
+    "static/js/2.bb426e0e.chunk.js.LICENSE.txt": "/reactfood/static/js/2.bb426e0e.chunk.js.LICENSE.txt",
+    "static/media/10.5fe37a94.png": "/reactfood/static/media/10.5fe37a94.png",
+    "static/media/6.289170f1.jpg": "/reactfood/static/media/6.289170f1.jpg",
+    "static/media/8.b08a0469.png": "/reactfood/static/media/8.b08a0469.png",
+    "static/media/fulki.3bf895db.jpg": "/reactfood/static/media/fulki.3bf895db.jpg",
+    "static/media/kbab.c30e9ca7.jpg": "/reactfood/static/media/kbab.c30e9ca7.jpg",
+    "static/media/pizza.15705092.jpg": "/reactfood/static/media/pizza.15705092.jpg",
+    "static/media/roll1.09d131e6.jpg": "/reactfood/static/media/roll1.09d131e6.jpg",
+    "static/media/samosa.59c81e04.jpg": "/reactfood/static/media/samosa.59c81e04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd4e54d.js",
+    "static/css/2.20e3fd4d.chunk.css",
+    "static/js/2.bb426e0e.chunk.js",
+    "static/css/main.0ceb012c.chunk.css",
+    "static/js/main.f7c0ffd4.chunk.js"
+  ]
+}
